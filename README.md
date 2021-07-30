@@ -5,6 +5,7 @@
 <li> Currently a Google DSC Lead.</li>
 <li> Keeps myself engaged in managing communities and being a part of it.</li>
 <li> Building and innovating personal and community projects.</li>
+<li> Read my blogs on <a href="https://haripriya21.medium.com/">Medium</a>.
 
 <h3>Say Hi!!</h3>
 <div>
