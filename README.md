@@ -1,4 +1,4 @@
-<h1 align="center">Hey ! This is <a href="https://www.linkedin.com/in/hari-priya-207207191/">Hari Priya</a></h1>
+<h1 align="center">Hey👋 ! This is <a href="https://www.linkedin.com/in/hari-priya-207207191/">Hari Priya</a></h1>
 <ul>
 <li> Currently in my 3rd year of Engineering majoring in Information Technology from BCREC,Durgapur.</li>
 <li> My major interest lies on Data Analysis,Web and Android Developemnt along with Technical writing and documenting projects.</li>
@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haripriya9647&label=Profile%20views&color=6805D3&style=flat" alt="haripriya9647" /> </p>
 
 
-<h3>Say Hi!!</h3>
+<h3>Say Hi!! ✨💥</h3>
 <div>
 <a  href="https://www.linkedin.com/in/hari-priya-207207191/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/Haripri86007496" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
@@ -19,7 +19,7 @@
 </div>
 
 
-<h1 align="center">Technology-Stack</h1>
+<h1 align="center">⚡Technology-Stack</h1>
 
  Languages
  <p align="left">
@@ -50,7 +50,7 @@ Databases
 
 
 
-<h1 align="center"> Github statistics</h1>
+<h1 align="center">⚡ Github statistics</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=haripriya9647&show_icons=true&theme=dark&locale=en" alt="haripriya9647" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haripriya9647&layout=compact&theme=dark)](https://github.com/haripriya9647/github-readme-stats)
