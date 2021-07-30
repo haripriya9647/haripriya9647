@@ -3,6 +3,7 @@
 <li> Currently in my 3rd year of Engineering majoring in Information Technology from BCREC,Durgapur.</li>
 <li> My major interest lies on Data Analysis,Web and Android Developemnt along with Technical writing and documenting projects.</li>
 <li> Currently a Google DSC Lead.</li>
+<li> Creating insights from data always excites me.
 <li> Keeps myself engaged in managing communities and being a part of it.</li>
 <li> Building and innovating personal and community projects.</li>
 <li> Read my blogs on <a href="https://haripriya21.medium.com/">Medium</a>.
