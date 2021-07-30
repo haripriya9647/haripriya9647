@@ -35,7 +35,7 @@ Databases
 <img src="https://github-readme-stats.vercel.app/api?username=haripriya9647&show_icons=true&theme=dark&locale=en" alt="haripriya9647" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haripriya9647&layout=compact)](https://github.com/haripriya9647/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haripriya9647&layout=compact&theme=dark)](https://github.com/haripriya9647/github-readme-stats)
 
 <h1 align="center">Say Hii!!<h1>
 <div align="center">
