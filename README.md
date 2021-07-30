@@ -2,7 +2,7 @@
 A short glimpse about me!!.I am currently in my 3rd year majoring in Information Technology from BCREC,Durgapur.My major interest lies on Data Analysis,Web and Android Developemnt along with Technical writing and documenting projects.
 
 
-<div align="center">
+<div align="">
 <a  href="https://www.linkedin.com/in/hari-priya-207207191/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/Haripri86007496" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:haripriya2k01@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -12,7 +12,7 @@ A short glimpse about me!!.I am currently in my 3rd year majoring in Information
 
 <h1 align="center">Technology-Stack</h1>
  Languages
- <p align="center">
+ <p align="left">
 <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
