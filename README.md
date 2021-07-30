@@ -2,9 +2,11 @@
 A short glimpse about me!!.I am currently in my 3rd year majoring in Information Technology from BCREC,Durgapur.My major interest lies on Data Analysis,Web and Android Developemnt along with Technical writing and documenting projects.
 
 <h1 align="center">Technology-Stack</h1>
+## Languages
+<img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+
 
 <h1 align="center"> Github statistics<h1>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haripriya9647)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haripriya9647&layout=compact)](https://github.com/haripriya9647/github-readme-stats)
 
