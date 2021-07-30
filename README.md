@@ -1,7 +1,11 @@
 <h1 align="center">Hey ! This is <a href="https://www.linkedin.com/in/hari-priya-207207191/">Hari Priya</a></h1>
-A short glimpse about me!!.I am currently in my 3rd year majoring in Information Technology from BCREC,Durgapur.My major interest lies on Data Analysis,Web and Android Developemnt along with Technical writing and documenting projects.
+* Currently in my 3rd year of Engineering majoring in Information Technology from BCREC,Durgapur.
+* My major interest lies on Data Analysis,Web and Android Developemnt along with Technical writing and documenting projects.
+* Currently a Google DSC Lead.
+* Keeps myself engaged in managing communities and being a part of it.
+* Building and innovating personal and community projects.
 
-
+Say Hi!!
 <div align="">
 <a  href="https://www.linkedin.com/in/hari-priya-207207191/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/Haripri86007496" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
@@ -11,6 +15,7 @@ A short glimpse about me!!.I am currently in my 3rd year majoring in Information
 
 
 <h1 align="center">Technology-Stack</h1>
+
  Languages
  <p align="left">
 <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
