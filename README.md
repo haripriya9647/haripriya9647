@@ -1,14 +1,13 @@
 <h1 align="center">Hey ! This is <a href="https://www.linkedin.com/in/hari-priya-207207191/">Hari Priya</a></h1>
 <ul>
 <li> Currently in my 3rd year of Engineering majoring in Information Technology from BCREC,Durgapur.</li>
-</ul>
-* My major interest lies on Data Analysis,Web and Android Developemnt along with Technical writing and documenting projects.
-* Currently a Google DSC Lead.
-* Keeps myself engaged in managing communities and being a part of it.
-* Building and innovating personal and community projects.
+<li> My major interest lies on Data Analysis,Web and Android Developemnt along with Technical writing and documenting projects.</li>
+<li> Currently a Google DSC Lead.</li>
+<li> Keeps myself engaged in managing communities and being a part of it.</li>
+<li> Building and innovating personal and community projects.</li>
 
-<h1>Say Hi!!</h1>
-<div align="">
+<h3>Say Hi!!</h3>
+<div>
 <a  href="https://www.linkedin.com/in/hari-priya-207207191/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/Haripri86007496" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:haripriya2k01@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
