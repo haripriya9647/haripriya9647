@@ -1,10 +1,10 @@
-<h1 align="center">Hey👋 ! This is <a href="https://www.linkedin.com/in/hari-priya-207207191/">Hari Priya</a></h1>
+<h2 align="left">Hey👋 ! This is <a href="https://www.linkedin.com/in/hari-priya-207207191/">Hari Priya</a></h2>
 <ul>
 <li> I'm a 23-year-old developer based in India, and I'm passionate about coding and software development.</li>
 <li>My major interest lies in software development and Technical writing.</li>
 <li>I believe that my curiosity to learn something new has dragged me here and looking forward to an amazing learning journey of learning and developing things.</li>
 
-<h1 align="center">⚡Technology-Stack</h1>
+<h2 align="left">⚡Technology-Stack</h2>
 
  Languages
  <p align="left">
