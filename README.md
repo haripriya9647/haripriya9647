@@ -3,18 +3,6 @@
 <li> I'm a 23-year-old developer based in India, and I'm passionate about coding and software development.</li>
 <li>My major interest lies in software development and Technical writing.</li>
 <li>I believe that my curiosity to learn something new has dragged me here and looking forward to an amazing learning journey of learning and developing things.</li>
-<li> Read my blogs on <a href="https://haripriya21.medium.com/">Medium</a>.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haripriya9647&label=Profile%20views&color=6805D3&style=flat" alt="haripriya9647" /> </p>
-
-
-<h3>Say Hi!! ✨💥</h3>
-<div>
-<a  href="https://www.linkedin.com/in/hari-priya-207207191/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/Haripri86007496" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:haripriya2k01@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a href="https://www.instagram.com/_haripriya21_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-</div>
-
 
 <h1 align="center">⚡Technology-Stack</h1>
 
