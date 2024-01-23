@@ -1,11 +1,7 @@
 <h1 align="center">Hey👋 ! This is <a href="https://www.linkedin.com/in/hari-priya-207207191/">Hari Priya</a></h1>
 <ul>
-<li> Currently in my 3rd year of Engineering majoring in Information Technology from BCREC,Durgapur.</li>
-<li>My major interest lies in Data Analysis, Web and Android Development along with Technical writing and documenting projects.</li>
-<li> Currently a Google DSC Lead.</li>
-<li> Creating insights from data always excites me.
-<li> Keeps myself engaged in managing communities and being a part of them.</li>
-<li> Building and innovating personal and community projects.</li>
+<li> I'm a 23-year-old developer based in India, and I'm passionate about coding and software development.</li>
+<li>My major interest lies in software development and Technical writing.</li>
 <li>I believe that my curiosity to learn something new has dragged me here and looking forward to an amazing learning journey of learning and developing things.</li>
 <li> Read my blogs on <a href="https://haripriya21.medium.com/">Medium</a>.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haripriya9647&label=Profile%20views&color=6805D3&style=flat" alt="haripriya9647" /> </p>
